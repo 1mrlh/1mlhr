@@ -1,8 +1,8 @@
-This is my profile !
+### **This is my profile !**
 
 
 
-♡ Meu nome é Lara Miralha
+♡ Meu nome é **Lara Miralha**
 
 
 
